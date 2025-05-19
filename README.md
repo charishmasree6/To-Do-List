@@ -3,15 +3,10 @@ A clean and interactive to-do list web application that lets you manage your dai
 
 🚀 Features
 ✅ Add new tasks
-
 📝 Edit existing tasks via prompt
-
 ✔️ Mark tasks as completed
-
 🗑️ Delete tasks with confirmation
-
 📊 Real-time counters for completed and uncompleted tasks
-
 📱 Responsive and styled with external CSS
 
 🛠️ Tech Stack
